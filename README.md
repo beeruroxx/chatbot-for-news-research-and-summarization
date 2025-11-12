@@ -1,7 +1,3 @@
-Perfect 👍 — here’s a **professional and detailed README.md** file content for your GitHub project:
-**“RAG-Based Chatbot for News Research and Summarization”**
-
-You can copy this directly into your repository’s `README.md` file.
 
 ---
 
@@ -164,5 +160,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-Would you like me to also create a short **`requirements.txt`** file (listing Python dependencies) to include in your repo?
 ```
